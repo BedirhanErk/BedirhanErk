@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Bedirhan Erkılıç</h1>
-<h3 align="center">I am a 4th grade student at Aksaray University Industrial Engineering. I'm interested in the software. I want to improve myself in the field of software and work in this field in the future. I am interested in ASP.Net Mvc, Sql, Ms Office Ms Excel Vba, C #, Matlab, Arduino, Wordprees. I am currently developing Web Projects with Asp.Net Core Mvc.</h3>
+<h1 align="center">Merhaba 👋, Ben Bedirhan Erkılıç</h1>
+<h3 align="center">2021 yılında Aksaray Üniversitesi Endüstri Mühendisliği bölümünden mezun oldum. Öğrencilik hayatım boyunca .Net alanında çalışmalar yaptım. C#, Asp.Net Mvc, Asp.Net Mvc Core, Katmanlı Mimari, Entity Framework, MsSql Server, PostgreSql, T-Sql, Html5, Css3, JavaScript, Bootstrap4, Rest API, Git – Github teknolojileri ile çeşitli projeler geliştirdim.
+
+Agile (Scrum) çalışma pratiklerine, SOLID prensiplerine ve OOP (Nesne Yönelimli Programlama)’ ya hakimim. Kendimi bu alanlarda geliştirebileceğim işlerde çalışmak istiyorum.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bedirhanerk&label=Profile%20views&color=0e75b6&style=flat" alt="bedirhanerk" /> </p>
 
