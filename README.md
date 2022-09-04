@@ -6,7 +6,7 @@ Agile (Scrum) çalışma pratiklerine, SOLID prensiplerine ve OOP (Nesne Yöneli
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bedirhanerk&label=Profile%20views&color=0e75b6&style=flat" alt="bedirhanerk" /> </p>
 
-- 🌱 I’m currently learning **Asp.Net Core Mvc**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BedirhanErk](https://github.com/BedirhanErk)
 
