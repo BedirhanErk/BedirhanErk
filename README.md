@@ -8,8 +8,6 @@ In 2021, I graduated from Aksaray University Industrial Engineering department. 
 After graduation, I started working in this field. During my working life, I developed applications with .Net. I made integrations with other systems through APIs. I developed APIs for other systems to integrate into our application. I also developed myself in the mobile field in line with the needs at work. I was involved in all processes of web and mobile applications.
 </p>
 
-- 🔭 I’m currently working on [Zeops](https://www.zeops.com/)
-
 - 🌱 I’m currently learning **Unit Test, Elasticsearch**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BedirhanErk?tab=repositories](https://github.com/BedirhanErk?tab=repositories)
